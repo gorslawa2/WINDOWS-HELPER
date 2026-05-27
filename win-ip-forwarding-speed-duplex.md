@@ -67,11 +67,12 @@ netsh int ip reset
 
 <div align="center">
   <kbd>
-    <img src="images/IMG_20260527_223418.png" alt="Настройки Speed and Duplex в диспетчере устройств Windows" width="600">
+    <img src="images/IMG_20260527_223418.png" alt="Настройки Speed and Duplex в диспетчере устройств Windows" width="300">
   </kbd>
   <br>
   <em>Рисунок 1. Жесткая фиксация скорости и дуплекса</em>
 </div>
+
 
 1. Откройте **Диспетчер устройств** (`devmgmt.msc`).
 2. В разделе **Сетевые адаптеры** выберите свойства используемой сетевой карты (Intel I225-V).
