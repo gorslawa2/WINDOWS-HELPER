@@ -29,7 +29,7 @@
 <br>
 <div align="center">
   <kbd>
-    <img src="images/IMG_20260527_223418.png" alt="Настройка зоны Местная интрасеть" width="800">
+    <img src="images/intranet-zone.png" alt="Настройка зоны Местная интрасеть" width="800">
   </kbd>
   <br>
   <em>Рисунок 1. Конфигурация доверенных сетевых путей</em>
