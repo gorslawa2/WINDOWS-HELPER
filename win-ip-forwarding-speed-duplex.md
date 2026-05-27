@@ -66,11 +66,14 @@ netsh int ip reset
 Потребовалось жестко зафиксировать параметры порта на стороне Windows-машины (процесс показан на скриншоте).
 
 <div align="center">
+  <a href="image_68ce1f.jpg" target="_blank" rel="noopener noreferrer">
   <kbd>
     <img src="images/IMG_20260527_223418.png" alt="Настройки Speed and Duplex в диспетчере устройств Windows" width="300">
   </kbd>
+  </a>
   <br>
   <em>Рисунок 1. Жесткая фиксация скорости и дуплекса</em>
+  <br>
 </div>
 
 
